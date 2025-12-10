@@ -1,6 +1,4 @@
 n = int(input())
-
-# For large N >= 25, factorial ends with at least four zeros
 if n >= 25:
     print(0)
 else:
